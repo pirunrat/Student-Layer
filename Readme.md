@@ -15,4 +15,4 @@ Top k: This category has the highest average train loss (0.4423) and the highest
 Overall Analysis:
 The model seems to perform better on even epochs based on validation accuracy, although it has the highest validation loss. There might be some overfitting issues as the validation loss is generally lower than the training loss, which could suggest that the model is memorizing the training data rather than learning generalizable patterns. Further analysis and tuning may be required to improve the model's performance, such as regularization techniques or adjusting the model architecture.
 
-!Alt Text[./result.jpg]
+![Alt Text](./result.jpg)
